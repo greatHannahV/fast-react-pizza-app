@@ -17,7 +17,5 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
-    "max-len": ["error", { code: 80 }],
-    "prettier/prettier": ["error", { printWidth: 80 }],
   },
 };
